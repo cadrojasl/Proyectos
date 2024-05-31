@@ -1,10 +1,10 @@
-package com.proyectos.curso.springboot.webapp.springboot_web;
+package com.proyecto.curso.springboot.webapp.primer_proyecto;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringbootWebApplicationTests {
+class PrimerProyectoApplicationTests {
 
 	@Test
 	void contextLoads() {

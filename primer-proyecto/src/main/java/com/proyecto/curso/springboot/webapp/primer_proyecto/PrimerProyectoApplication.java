@@ -1,13 +1,13 @@
-package com.proyectos.curso.springboot.webapp.springboot_web;
+package com.proyecto.curso.springboot.webapp.primer_proyecto;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootWebApplication {
+public class PrimerProyectoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootWebApplication.class, args);
+		SpringApplication.run(PrimerProyectoApplication.class, args);
 	}
 
 }
